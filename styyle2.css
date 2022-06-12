@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+body {
+  <img src="dog.jpg" alt="HTML5 Icon" width="400" height="200">
+  <img src="dog1.jpg" alt="HTML5 Icon" width="400" height="200">
+  <img src="dog2.jp2" alt="HTML5 Icon" width="400" height="200">
+  <img src="dog3.png" alt="HTML5 Icon" width="400" height="200">
+  <img src="dog4.jpg" alt="HTML5 Icon" width="400" height="200">
+  <img src="dog5.jpg" alt="HTML5 Icon" width="400" height="200">
+  <img src="parrot1.jpg" alt="HTML5 Icon" width="400" height="200">
+  <img src="parrot2.jpg" alt="HTML5 Icon" width="400" height="200">
+  <img src="parrots.jpg" alt="HTML5 Icon" width="400" height="200">
+  font-size: 160%;
+}
+h1 {
+  font-size: 135%;
+}
+p {
+  font-size: 135%;
+}
+
+</body>
+</html>
